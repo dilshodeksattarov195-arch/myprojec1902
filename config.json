@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioneync",
+        "uuid": 2065572,
+        "checksum": "xa438o"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
